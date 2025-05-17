@@ -1,0 +1,21 @@
+Privacy Policy for Ozzy OMR Sheets
+Effective Date: 17.05.2025
+
+Ozzy OMR Sheets respects your privacy. This policy outlines how our application handles user data.
+1. Information Collection
+Ozzy OMR Sheets does not access, collect, store, or transmit any personal information.
+
+2. Data Usage
+Since our application does not gather personal data, no information is shared or processed in any way.
+
+3. Third-Party Services
+Ozzy OMR Sheets is distributed via the Microsoft Store. While the application itself does not collect data, Microsoft's licensing and store mechanisms may involve certain data processing. We recommend reviewing Microsoft's privacy policy for more details: https://privacy.microsoft.com.
+
+4. Security
+As Ozzy OMR Sheets does not store or process personal data, there are no security risks related to user information within the application.
+
+5. Changes to this Privacy Policy
+We may update this policy if necessary. Any changes will be reflected here with an updated effective date.
+
+6. Contact
+If you have any questions about this privacy policy, please contact us at ozanaki@hotmail.com
